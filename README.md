@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=BeratTezer/BeratTezer.64587561&left_text=Views" alt="Forget all of them!" align="center">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
