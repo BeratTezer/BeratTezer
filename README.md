@@ -1,9 +1,8 @@
 <div align="center">
   
   # 👋🏼 Hi there, I am Berat Tezer
-  <div align="">
-    <p align="left">I've spent time and knowledge on Python, PyQt6, Selenium and C.</p><br><br>
-  </div>
+  
+  <p>I've spent time and knowledge on Python, PyQt6, Selenium and C.</p>
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
   
