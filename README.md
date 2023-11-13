@@ -2,10 +2,9 @@
 🎨 I'm currently working on Python and Qt.<br>👀 I would like to collaborate on Social Media management and copywriting regarding technology news.<br>🌱 I am currently learning Data Structures, Object Oriented Programming and Circuit Fundamentals (Logic and Analysis).<br>💬 Ask me about UI&GUI Development, Project Management and Teamwork.<br><br><br><br>
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
 ## 🌐 Socials:
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berattezer_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berat-tezer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/berattezer_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCrLdWgdBIThgJAauMv9EGmQ) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BeratTezer)<br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/berattezer_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berat-tezer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/berattezer_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@berattezer_) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BeratTezer)<br><br>
 <img src="https://raw.githubusercontent.com/BeratTezer/BeratTezer/output/snake.svg" alt="Snake animation" />
 
 ###
