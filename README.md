@@ -1,5 +1,5 @@
 # Hello, I'm Berat 👋🏽
-🎨 I'm currently working on Python and Qt.<br>👀 I would like to collaborate on Social Media management and copywriting regarding technology news.<br>🌱 I am currently learning Data Structures, Object Oriented Programming and Circuit Fundamentals (Logic and Analysis).<br>💬 Ask me about UI&GUI Development, Project Management and Teamwork.<br><br>📚 Currently reading: The Wisdom of Life
+🎨 I'm currently working on ROS.<br>👀 I would like to collaborate on Social Media management and copywriting regarding technology news.<br>🌱 I am currently learning ROS, Data Structures, Object Oriented Programming and Circuit Fundamentals (Logic and Analysis).<br>💬 Ask me about UI&GUI Development, Project Management and Teamwork.<br><br>📚 Currently reading: The Wisdom of Life
 Book by Arthur Schopenhauer (17.11.23)<br><br><br>
 <div align="center">
 
