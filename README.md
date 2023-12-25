@@ -17,8 +17,8 @@ Book by Arthur Schopenhauer (17.11.23)<br><br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeratTezer&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br><br><br><br>
 
 ---
- <img src="https://media.tenor.com/Y6XIpgiTeYoAAAAC/aku-smiling.gif" width="260" height="260"/> ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark) <img src="https://media.tenor.com/U86BpHO8a7gAAAAC/samurai-jack-samurai.gif" width="260" height="260"/><br><br>
-
+ ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+ 
 ---
 ### ⬇ My Current Projects ⬇
 </div>
