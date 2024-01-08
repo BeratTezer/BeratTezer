@@ -1,5 +1,5 @@
 # Hello, I'm Berat 👋🏽
-🎨 I'm currently working on ROS.<br>👀 I would like to collaborate on Social Media management and copywriting regarding technology news.<br>🌱 I am currently learning ROS, Data Structures, Object Oriented Programming and Circuit Fundamentals (Logic and Analysis).<br>💬 Ask me about UI&GUI Development, Project Management and Teamwork.<br><br><br><br>
+🤖 Currently working on ROS & Simulation Environments.<br>🌱 I am currently learning ROS, Data Structures, Object Oriented Programming and Circuit Fundamentals (Logic and Analysis).<br><br>📚 Book Suggestions: (Coming soon)<br><br><br><br>
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
