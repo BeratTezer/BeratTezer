@@ -1,4 +1,4 @@
-# Hello, I'm Berat 👋🏽
+# I'm Berat 👋🏽
 🤖 Currently working on ROS & Simulation Environments.<br>🌲 I passed these classes: Programming Languages I and II, Data Structures, Object Oriented Programming and Circuit Fundamentals (Logic and Analysis)<br>📚 Courses I am taking: Algoirthms, Database Systems, Internet Based Programming, Electronics, Discrete Math<br>🌱 I am currently learning ROS, Robot Modelling and Controlling.<br><br><br><br>
 <div align="center">
 
