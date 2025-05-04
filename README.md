@@ -1,5 +1,5 @@
 # I'm Berat 👋🏽
-🤖 Currently working on ROS & Simulation Environments.<br>🌲 Took these classes: Data Structures, Object Oriented Programming, Circuit Fundamentals (Logic and Analysis), Algorithms, Database Systems, Internet Based Programming, Microcontrollers, Visual Programming Operating Systems and Numeric Analysis<br>📚 Courses I am taking: Electronics, Computer Network, Automata Theory and Computer Architecture<br>🌱 I am currently learning ROS, Robot Modelling and Controlling.<br><br><br><br>
+🤖 Currently working on ROS & Simulation Environments.<br>🌲 Took these classes: Data Structures, Object Oriented Programming, Circuit Fundamentals (Logic and Analysis), Algorithms, Database Systems, Internet Based Programming, Microcontrollers, Visual Programming Operating Systems and Numeric Analysis<br>📚 Courses I am taking: Electronics, Computer Network, Software Engineering, Automata Theory and Computer Architecture<br>🌱 I am currently learning ROS, Robot Modelling and Controlling.<br><br><br><br>
 <div align="center">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
