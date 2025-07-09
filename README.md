@@ -1,8 +1,8 @@
 # I'm Berat 👋🏽
-🤖 Currently working on ROS & Simulation Environments.<br>🌲 Took these classes: Data Structures, Object Oriented Programming, Circuit Fundamentals (Logic and Analysis), Algorithms, Database Systems, Internet Based Programming, Microcontrollers, Visual Programming Operating Systems and Numeric Analysis<br>📚 Courses I am taking: Electronics, Computer Network, Software Engineering, Automata Theory and Computer Architecture<br>🌱 I am currently learning ROS, Robot Modelling and Controlling.<br><br><br><br>
+🌱 I am currently learning IsaacLab, Robot Modelling and Controlling.<br>
+⚙️ Love almost everything about R&D<br><br><br><br>
 <div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
 ## 🌐 Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berat-tezer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@berat-tezer)
 <img src="https://raw.githubusercontent.com/BeratTezer/BeratTezer/output/snake.svg" alt="Snake animation" />
@@ -16,5 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeratTezer&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br><br><br><br>
 -->
 ---
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBeratTezer&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=none)
 ### ⬇ My Current Projects ⬇
 </div>
