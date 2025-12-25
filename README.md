@@ -1,6 +1,6 @@
 # I'm Berat 👋🏽
-🌱 I am currently learning IsaacLab, Robot Modelling and Controlling.<br>
-⚙️ Love almost everything about R&D<br><br><br><br>
+🌱 I am currently learning IsaacSim, Robot Modelling and Autonomous Controlling.<br>
+⚙️ I love everything about R&D<br><br><br><br>
 <div align="center">
 
 ## 🌐 Socials 🌐
